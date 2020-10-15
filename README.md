@@ -6,7 +6,7 @@ Cette extension permet de s'inscrire aux notifications de Kabyle Gamers (One Sig
 
 ## To-do
 
-- [ ] Background de l'extension, avec logo et « Premium »
+- [x] Background de l'extension, avec logo et « Premium » (Bardit)
 - [x] CSS / Boutons ([@Nissoux](https://github.com/@nissoux))
 - [x] Vérifier la présence de directs sur Twitch ou Youtube ([@DarthJahus](https://github.com/darthjahus)
 - [ ] Utiliser l'API web privée pour récupérer les infos sur les directs ([@Nissoux](https://github.com/@nissoux))
